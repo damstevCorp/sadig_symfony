@@ -1,0 +1,7 @@
+parameters:
+#    sadig_sadig_main.example.class: Sadig\SadigMainBundle\Example
+
+services:
+#    sadig_sadig_main.example:
+#        class: %sadig_sadig_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
